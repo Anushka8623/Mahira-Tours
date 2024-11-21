@@ -129,7 +129,7 @@ body {
 /* Gallery Section */
 .gallery {
   padding: 40px 20px;
-  background-color: #f9f3e9;
+   background-color: #1c000a
   text-align: center;
 }
 
@@ -138,6 +138,7 @@ body {
   justify-content: center;
   gap: 20px;
   flex-wrap: wrap;
+   background-color: #1c000a
 }
 
 .gallery-item {
